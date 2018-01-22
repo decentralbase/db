@@ -1,4 +1,1 @@
-{
- "myTrades": [],
- "myFund": []
- }
+{"myTrades":[{"txHash":"0xfa17a34c48cb28ce3104643a3154787e717efef8edf27d32063829cb835b32a9","date":"2018-01-22T15:35:30.056Z","price":0.008,"open":"1","close":"2","side":"buy","amount":"4.5","amountBase":"0.036","buyer":"0xb176c618b754f2365e8dbd7e0781f12907bcea4d","seller":"0xb176c618b754f2365e8dbd7e0781f12907bcea4d","tokenAddr":"0xe58abb2977780207b5aa91e65244a40d62cbf4f9"}],"myFund":[]}

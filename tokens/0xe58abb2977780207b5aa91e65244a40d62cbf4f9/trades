@@ -79,7 +79,7 @@
 			"date" : "2018-01-19T11:45:51.951Z",
 			"price" : 0.0044,
 			"seller" : "0xb176c618b754f2365e8dbd7e0781f12907bcea4d",
-			"amountBase" : "2000000000000000",
+			"amountBase" : "2",
 			"close" : "2",
 			"side" : "sells",
 			"buyer" : "0xb176c618b754f2365e8dbd7e0781f12907bcea4d"

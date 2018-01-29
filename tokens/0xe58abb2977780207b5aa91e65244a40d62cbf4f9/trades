@@ -554,7 +554,19 @@
 			"buyer" : "0xb176c618b754f2365e8dbd7e0781f12907bcea4d",
 			"seller" : "0xb176c618b754f2365e8dbd7e0781f12907bcea4d",
 			"tokenAddr" : "0xe58abb2977780207b5aa91e65244a40d62cbf4f9"
+		}, {
+			"txHash" : "0x515120daa29e3e07ef5af7eba18e68413e5fbc379e858c3871384c944ffd4e0d",
+			"date" : "2018-01-25T13:22:58.794Z",
+			"price" : 0.00004,
+			"open" : "1",
+			"close" : "2",
+			"side" : "buys",
+			"amount" : "3",
+			"amountBase" : "0.00009",
+			"buyer" : "0xb176c618b754f2365e8dbd7e0781f12907bcea4d",
+			"seller" : "0xb176c618b754f2365e8dbd7e0781f12907bcea4d",
+			"tokenAddr" : "0xe58abb2977780207b5aa91e65244a40d62cbf4f9"
 		}
 	],
-	"updated" : "2018-01-25T13:22:58.794Z"
+	"updated" : "2018-01-26T13:22:58.794Z"
 }

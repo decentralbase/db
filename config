@@ -1,0 +1,17 @@
+[{
+    apiKey: "AIzaSyCJMGzJMk8yOWgLXx86VmNH4_mQvKeSPvI",
+    authDomain: "decentralbase-trashcan001.firebaseapp.com",
+    databaseURL: "https://decentralbase-trashcan001.firebaseio.com",
+    projectId: "decentralbase-trashcan001",
+    storageBucket: "decentralbase-trashcan001.appspot.com",
+    messagingSenderId: "74586400798"
+  },
+   {
+    apiKey: "AIzaSyB46M_yeRPfqBgJ5Julb5bULYhjTF0LiKc",
+    authDomain: "decentralbase-trashcan002.firebaseapp.com",
+    databaseURL: "https://decentralbase-trashcan002.firebaseio.com",
+    projectId: "decentralbase-trashcan002",
+    storageBucket: "decentralbase-trashcan002.appspot.com",
+    messagingSenderId: "1054362572416"
+  }
+  ]

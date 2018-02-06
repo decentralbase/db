@@ -949,7 +949,7 @@
                 "command": "newOrder"
             },
             {
-                "amount": "122000000000000000000",
+                "amount": "123000000000000000000",
                 "price": 5e-8,
                 "tokenGet": "0x0000000000000000000000000000000000000000",
                 "amountGet": "6150000000000",
@@ -962,8 +962,8 @@
                 "s": "0x503f05a174aad70ae3f0781f0378e63444546d5ecb69f46dde9399461df519b4",
                 "user": "0xB176c618B754f2365E8DbD7E0781f12907bCEa4D",
                 "updated": "2018-02-06T17:12:34.557Z",
-                "availableVolume": "123000000000000000000",
-                "ethAvailableVolume": "123.0000",
+                "availableVolume": "122000000000000000000",
+                "ethAvailableVolume": "122.0000",
                 "availableVolumeBase": "6150000000000",
                 "ethAvailableVolumeBase": "0.0000",
                 "amountFilled": null,

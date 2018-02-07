@@ -659,7 +659,7 @@
             "tokenAddr": "0xe58abb2977780207b5aa91e65244a40d62cbf4f9",
             "price": 0.002,
             "amount": "4000000000000000000",
-            "amountBase": 8000000000000000,
+            "amountBase": 7000000000000000,
             "command": "updateOrder"
         }
     ],

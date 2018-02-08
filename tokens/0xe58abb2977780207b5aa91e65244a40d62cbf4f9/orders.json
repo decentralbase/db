@@ -502,7 +502,7 @@
                 "ethAvailableVolume": "130.0000",
                 "availableVolumeBase": "2600000000000000000",
                 "ethAvailableVolumeBase": "2.6000",
-                "amountFilled": null,
+                "amountFilled": true,
                 "command": "newOrder"
             }
         ],

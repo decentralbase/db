@@ -477,7 +477,7 @@
                 "s": "0x2ff270e3fa806318800673b5d25d550ddec2f510cae073da7d389ff76e365e26",
                 "user": "0xB176c618B754f2365E8DbD7E0781f12907bCEa4D",
                 "updated": "2018-02-08T14:36:17.775Z",
-                "availableVolume": "-44000000000000000000",
+                "availableVolume": "44000000000000000000",
                 "ethAvailableVolume": "444.0000",
                 "availableVolumeBase": "888000000000000000",
                 "ethAvailableVolumeBase": "0.8880",

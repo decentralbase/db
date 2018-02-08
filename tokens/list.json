@@ -1,7 +1,7 @@
 {
     "tokenList": [
         {
-            "ask": 0.0000000000012,
+            "ask": 0.00000000012,
             "baseVolume": 117805.418,
             "bid": 3.2e-8,
             "desc": "ETH_PRS",

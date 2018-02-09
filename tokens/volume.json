@@ -1,7 +1,7 @@
 {
     "tokenList": [
         {
-            "tokenAddr": "0xDb36c505BCc50bbd33407E18DC2FDCc648aEe162",
+            "tokenAddr": "0xdb36c505bcc50bbd33407e18dc2fdcc648aee162",
             "symbol": "PRS",
             "last": "0.000124860000000000",
             "baseVolume": 117805.418,

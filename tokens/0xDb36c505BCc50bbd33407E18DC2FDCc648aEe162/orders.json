@@ -1,8 +1,1 @@
-{
-    "orders": {
-        "buys": [
-        ],
-        "sells": []
-    },
-    "updated": "2018-02-08T18:32:31.556Z"
-}
+{"orders":{"buys":[],"sells":[{"amount":"2e+21","price":0.03,"tokenGet":"0x0000000000000000000000000000000000000000","amountGet":"60000000000000000000","tokenGive":"0xDb36c505BCc50bbd33407E18DC2FDCc648aEe162","amountGive":"2e+21","expires":11739228,"nonce":1014584625,"v":28,"r":"0x3d56e71c4144df5fdeb476ea378752a9e242b88730a97858d6c78edb851df4c2","s":"0x0d496f4f1190b104f2a7eefc152f33210833198f6e8f318685b9a53115a2766e","user":"0x006e3752d7c043274fd44dcb6816ffd8a2d367f2","updated":"2018-02-09T02:32:52.013Z","availableVolume":"2e+21","ethAvailableVolume":"2000.0000","availableVolumeBase":"60000000000000000000","ethAvailableVolumeBase":"60.0000","orderCancelled":false}]},"updated":"2018-02-09T02:32:52.908Z"}
